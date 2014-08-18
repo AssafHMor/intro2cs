@@ -4,7 +4,8 @@ import java.util.*;
 
 /**
  * description: The class Evaluator for ex. 10.
- * Holds a mathematical expression and maintains the environment of variable values as a Map.
+ * Holds a mathematical expression and maintains the environment of variable 
+ * values as a Map.
  */
 public class Evaluator {
 	
